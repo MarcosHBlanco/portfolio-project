@@ -8,8 +8,8 @@ export default function NavBar(){
             <div className="navtext">
                 <a href="#top" >Welcome</a>
                 <a href="#intro" >Intro</a>
-                <a href="#top">Download CV</a>
-                <a href="#top">Let's talk</a>
+                <a href="">Download CV</a>
+                <a href="https://api.whatsapp.com/send?phone=5521996652828" target="_blank">Let's talk</a>
             </div>
             <div className="navicons">
                 <a href="mailto:marcoshblanco@gmail.com"><img src={MailImage} className="socialicons" alt="maillogo"></img></a>

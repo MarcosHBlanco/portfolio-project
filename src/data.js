@@ -38,6 +38,6 @@ export const TIME_LINE = [
     },
     {
         title:"2023",
-        description: "Took a leap of faith on pursuing a long time dream. Enrolled in the Infnet Institute on the Software Engineering course. Since February, 2023, i've been developing my skills, always trying to learn new and interesting ways to create content. I'm on the rpute to become a FullStack developer, but i can say for sure that Front-End is my real passion."
+        description: "Took a leap of faith on pursuing a long time dream. Enrolled in the Infnet Institute on the Software Engineering course. Since February, 2023, i've been developing my skills, always trying to learn new and interesting ways to create content. I'm on the route to become a FullStack developer, but i can say for sure that Front-End is my real passion."
     },
 ]
