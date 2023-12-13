@@ -23,8 +23,7 @@ export const LOGO_IMAGES = [
     },
     {
         image: reactLogo
-    },
-
+    }
 ]
 
 export const TIME_LINE = [
